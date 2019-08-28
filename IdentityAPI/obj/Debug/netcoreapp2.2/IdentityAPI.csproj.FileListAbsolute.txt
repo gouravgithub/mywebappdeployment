@@ -1,0 +1,14 @@
+D:\Training\.Net Core\JWT\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.deps.json
+D:\Training\.Net Core\JWT\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.runtimeconfig.json
+D:\Training\.Net Core\JWT\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.runtimeconfig.dev.json
+D:\Training\.Net Core\JWT\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.dll
+D:\Training\.Net Core\JWT\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.csprojAssemblyReference.cache
+D:\Training\.Net Core\JWT\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.csproj.CoreCompileInputs.cache
+D:\Training\.Net Core\JWT\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.RazorAssemblyInfo.cache
+D:\Training\.Net Core\JWT\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.RazorAssemblyInfo.cs
+D:\Training\.Net Core\JWT\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.AssemblyInfoInputs.cache
+D:\Training\.Net Core\JWT\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.AssemblyInfo.cs
+D:\Training\.Net Core\JWT\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.RazorTargetAssemblyInfo.cache
+D:\Training\.Net Core\JWT\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.pdb
+D:\Training\.Net Core\JWT\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.dll
+D:\Training\.Net Core\JWT\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.pdb
